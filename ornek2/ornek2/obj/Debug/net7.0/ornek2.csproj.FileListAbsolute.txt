@@ -1,0 +1,15 @@
+/Users/ertackara/Projects/ornek2/ornek2/bin/Debug/net7.0/ornek2
+/Users/ertackara/Projects/ornek2/ornek2/bin/Debug/net7.0/ornek2.deps.json
+/Users/ertackara/Projects/ornek2/ornek2/bin/Debug/net7.0/ornek2.runtimeconfig.json
+/Users/ertackara/Projects/ornek2/ornek2/bin/Debug/net7.0/ornek2.dll
+/Users/ertackara/Projects/ornek2/ornek2/bin/Debug/net7.0/ornek2.pdb
+/Users/ertackara/Projects/ornek2/ornek2/obj/Debug/net7.0/ornek2.csproj.AssemblyReference.cache
+/Users/ertackara/Projects/ornek2/ornek2/obj/Debug/net7.0/ornek2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ertackara/Projects/ornek2/ornek2/obj/Debug/net7.0/ornek2.AssemblyInfoInputs.cache
+/Users/ertackara/Projects/ornek2/ornek2/obj/Debug/net7.0/ornek2.AssemblyInfo.cs
+/Users/ertackara/Projects/ornek2/ornek2/obj/Debug/net7.0/ornek2.csproj.CoreCompileInputs.cache
+/Users/ertackara/Projects/ornek2/ornek2/obj/Debug/net7.0/ornek2.dll
+/Users/ertackara/Projects/ornek2/ornek2/obj/Debug/net7.0/refint/ornek2.dll
+/Users/ertackara/Projects/ornek2/ornek2/obj/Debug/net7.0/ornek2.pdb
+/Users/ertackara/Projects/ornek2/ornek2/obj/Debug/net7.0/ornek2.genruntimeconfig.cache
+/Users/ertackara/Projects/ornek2/ornek2/obj/Debug/net7.0/ref/ornek2.dll

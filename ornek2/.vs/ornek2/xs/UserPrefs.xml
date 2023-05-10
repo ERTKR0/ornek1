@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{0B403355-81A4-4504-8FCD-82C10F744A8B}|Default">
+  <MonoDevelop.Ide.ItemProperties.ornek2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ornek2/Program.cs">
+    <Files>
+      <File FileName="ornek2/Program.cs" Line="13" Column="128" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ornek2" expanded="True">
+            <Node name="ornek2" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>
